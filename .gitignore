@@ -1,0 +1,19 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Raw datasets (large files; obtain separately using README instructions)
+data/*.csv
+
+# Keep sample PNGs and reports in output/ for portfolio evidence.
+# Ignore local temporary/test artifacts if needed.
