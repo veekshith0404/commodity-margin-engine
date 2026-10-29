@@ -1,19 +1,19 @@
-# Python cache and compiled files
+# Python caches and build artifacts
 __pycache__/
 *.py[cod]
 *$py.class
+.pytest_cache/
 
 # Virtual environments
 .venv/
 venv/
 env/
 
-# IDE/editor files
+# Editor settings
 .vscode/
 .idea/
 
-# Raw datasets (large files; obtain separately using README instructions)
+# Raw datasets and generated review archive
 data/*.csv
-
-# Keep sample PNGs and reports in output/ for portfolio evidence.
-# Ignore local temporary/test artifacts if needed.
+commodity-margin-engine-review.zip
+*.zip
